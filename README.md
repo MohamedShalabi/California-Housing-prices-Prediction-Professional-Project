@@ -1,4 +1,7 @@
 # California-Hosing-prices-Prediction-End-to-End-project
 This is a code i learned form Hands on machine learning with Scikit learn  but i have added  some modifications for better looking 
-THE  Main features of this code is that it includes [better train and test splitting based on the most important feature that need to be considered,Also it includes full pipeline application on the features , plus , it includes fining and tunning the best selected model(random Forest)]
+An End to End project of housing prediction 
+input :Dataset of California Houses and their prices
+Required Output: Prediction of Prices Based on  Specific Features
+Steps: Data Exploring ,  Splitting based on Specific features distribution (stratified sampling) ,  Pipelines  transformation, Cross-validation for three models and comparing for the best, Tuning the selected model using the grid search method 
 
