@@ -1,4 +1,4 @@
-# California-Hosing-prices-Prediction-End-to-End-project
+# California-Housing-prices-Prediction-End-to-End-project
 This is a code i learned form Hands on machine learning with Scikit learn  but i have added  some modifications for better looking 
 An End to End project of housing prediction 
 input :Dataset of California Houses and their prices
